@@ -1,0 +1,8 @@
+{
+	"name": "Adafruit-MAX31855-library",
+	"author": "Eric Peterson <src@ericpeterson.mn",
+	"original author": "Adafruit",
+	"version": "0.0.1",
+	"license": "BSD",
+	"description": "Adafruit MAX31855 library for thermocouples."
+}
